@@ -62,7 +62,7 @@ This is a personal project, but I’m always open to feedback and ideas! Feel fr
 
 ## 📬 Contact Me
 
-Have questions or want to collaborate? Reach out to me through any of my social networks or email - danyil.maslov@gmail.com
+Have questions or want to collaborate? Reach out to me through any of my social networks or [email](danyil.maslov@gmail.com)
 
 ---
 
