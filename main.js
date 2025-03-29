@@ -1,7 +1,7 @@
 
 const element = document.getElementById('text');
 let textArray = [
-    "Hello! I am 14 years old boy from Ukraine, styding in online school Hillel. Now i am learning html, css and js.",
+    "Hello! I am 14 years old boy from Ukraine. Now i am learning html, css and js.",
     "My social networks:"
 ];
 let index = 0;
